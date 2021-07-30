@@ -1,5 +1,5 @@
 # Starcraft-QMIX-with-Tensorflow-2.0
-Acknowledgement
+## Acknowledgement
 
 Based on https://github.com/starry-sky6688/StarCraft. Migrated QMIX networks from Pytorch to Tensorflow 2.0. 
 
